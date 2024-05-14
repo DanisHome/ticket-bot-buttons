@@ -1,5 +1,5 @@
 {
-    "TOKEN": "your_token_here",
+    "TOKEN": "your_bot_token_here",
     "GUILDID": "your_guildid_here",
     "EROLE": "your_Teamrole_Name_here",
     "TCATEGORY": "your_Ticketcategory_Name_here",
